@@ -1,5 +1,5 @@
 # Yet Another EfficientDet Pytorch
-
+[知乎链接](https://zhuanlan.zhihu.com/p/129016081)
 The pytorch re-implement of the official [EfficientDet](https://github.com/google/automl/tree/master/efficientdet) with SOTA performance in real time, original paper link: https://arxiv.org/abs/1911.09070
 
 
